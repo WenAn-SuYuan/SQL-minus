@@ -1,0 +1,10 @@
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/VacationProject.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/SQL-Minus.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/SQL-Minus-version2.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/lab.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/SQL-Minus-version3.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/laboratory.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/lab-2.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/SQL-4.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weslie/CLionProjects/VacationProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
